@@ -1,15 +1,21 @@
 {
   "name": "tix",
-  "version": "0.5.0",
-  "description": "Manage a set of things very quickly",
+  "version": "0.5.1",
+  "description": "Generate and track unique ids minimalistically",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
   },
   "keywords": [
-    "set"
+    "unique",
+    "ids",
+    "bitmask"
   ],
   "author": "David Manning",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dlmanning/tix.git"
+  }
   "license": "MIT",
   "devDependencies": {
     "tape": "^2.14.0"
