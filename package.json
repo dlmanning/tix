@@ -15,7 +15,7 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/dlmanning/tix.git"
-  }
+  },
   "license": "MIT",
   "devDependencies": {
     "tape": "^2.14.0"
